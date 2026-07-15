@@ -1,0 +1,4 @@
+SELECT *
+FROM CRM_Data
+ORDER BY Expected_Revenue DESC
+LIMIT 1;
